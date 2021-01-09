@@ -94,5 +94,29 @@
     "title": "Penang Assam Laksa",
     "price": 380,
     "image": "https://3.bp.blogspot.com/-GjfaSKMCMKs/Tnf51by8-MI/AAAAAAAACZY/6JcsB62LeXQ/s1600/Penang+asam+laksa.JPG"
+  },
+  {
+    "id": 12,
+    "menu": "",
+    "sub_menu": "Beverages",
+    "title": "Apple Juice",
+    "price": 350,
+    "image": "https://static01.nyt.com/images/2013/10/23/dining/23JPFLEX2/23JPFLEX2-articleLarge.jpg"
+  },
+  {
+    "id": 12,
+    "menu": "",
+    "sub_menu": "Beverages",
+    "title": "Lemonade",
+    "price": 350,
+    "image": "https://realhousemoms.com/wp-content/uploads/Classic-Homemade-Lemonade-IG.jpg"
+  },
+  {
+    "id": 12,
+    "menu": "",
+    "sub_menu": "Snacks",
+    "title": "Coffee",
+    "price": 350,
+    "image": "https://www.thinkingnutrition.com.au/wp-content/uploads/2020/08/Coffee-Cup-scaled.jpg"
   }
 ]
