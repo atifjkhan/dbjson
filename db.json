@@ -96,11 +96,19 @@
     "image": "https://3.bp.blogspot.com/-GjfaSKMCMKs/Tnf51by8-MI/AAAAAAAACZY/6JcsB62LeXQ/s1600/Penang+asam+laksa.JPG"
   },
   {
+    "id": 17,
+    "menu": "",
+    "sub_menu": "Soup",
+    "title": "Tomato Soup",
+    "price": 380,
+    "image": "https://i2.wp.com/lifemadesimplebakes.com/wp-content/uploads/2019/10/tomato-soup-resize-6.jpg"
+  },
+  {
     "id": 13,
     "menu": "",
     "sub_menu": "Beverages",
     "title": "Apple Juice",
-    "price": 350,
+    "price": 110,
     "image": "https://i.ytimg.com/vi/bGfJILzw6Mc/maxresdefault.jpg"
   },
   {
@@ -112,11 +120,27 @@
     "image": "https://realhousemoms.com/wp-content/uploads/Classic-Homemade-Lemonade-IG.jpg"
   },
   {
-    "id": 15,
+    "id": 16,
     "menu": "",
     "sub_menu": "Beverages",
-    "title": "Coffee",
+    "title": "Avocado Juice",
     "price": 350,
+    "image": "https://www.thespruceeats.com/thmb/1TvYgXqM3MFgxb5qPbDy4BMs3Bs=/2012x1490/filters:fill(auto,1)/GettyImages-511024538-5afef110875db9003675c624.jpg"
+  },
+  {
+    "id": 15,
+    "menu": "",
+    "sub_menu": "Coffee",
+    "title": "Capuccino",
+    "price": 380,
     "image": "https://www.thinkingnutrition.com.au/wp-content/uploads/2020/08/Coffee-Cup-scaled.jpg"
+  },
+  {
+    "id": 18,
+    "menu": "",
+    "sub_menu": "Coffee",
+    "title": "Dark Chocolate Mocha",
+    "price": 380,
+    "image": "https://i1.wp.com/gatherforbread.com/wp-content/uploads/2014/10/Dark-Chocolate-Mocha-Square.jpg?fit=1000%2C1000&ssl=1"
   }
 ]
