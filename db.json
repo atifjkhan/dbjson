@@ -3,17 +3,17 @@
     "id": 1,
     "menu": "Foods",
     "sub_menu": "Rice",
-    "title": "Nasi Goreng",
+    "title": "Seafood Paella",
     "price": 25000,
-    "image": "https://media01.stockfood.com/previews/MTQ5MjIyNzg0/12435232.jpg"
+    "image": "https://assets.epicurious.com/photos/5764583142e4a5ed66d1df6c/master/pass/seafood-paella.jpg"
   },
   {
     "id": 5,
     "menu": "Foods",
     "sub_menu": "Rice",
-    "title": "Rendang",
+    "title": "Meat Balls",
     "price": 40000,
-    "image": "https://media01.stockfood.com/thumbs/200/11435392.jpg"
+    "image": "https://www.cookingclassy.com/wp-content/uploads/2019/09/meatballs-21.jpg"
   },
   {
     "id": 3,
