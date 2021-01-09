@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "menu": "Foods",
+    "menu": "",
     "sub_menu": "Rice",
     "title": "Seafood Paella",
     "price": 25000,
@@ -9,7 +9,7 @@
   },
   {
     "id": 5,
-    "menu": "Foods",
+    "menu": "",
     "sub_menu": "Rice",
     "title": "Meat Balls",
     "price": 40000,
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "menu": "Foods",
+    "menu": "",
     "sub_menu": "Snacks",
     "title": "Fajitas",
     "price": 5000,
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "menu": "Foods",
+    "menu": "",
     "sub_menu": "Snacks",
     "title": "Bimbimbap",
     "price": 5000,
@@ -33,7 +33,7 @@
   },
   {
     "id": 2,
-    "menu": "Drinks",
+    "menu": "",
     "sub_menu": "Baverages",
     "title": "Penang Assam Laksa",
     "price": 1000,
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "menu": "Drinks",
+    "menu": "",
     "sub_menu": "Baverages",
     "title": "Chocolate",
     "price": 1500,
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "menu": "Drinks",
+    "menu": "",
     "sub_menu": "Baverages",
     "title": "Lasagna",
     "price": 2000,
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "menu": "Drinks",
+    "menu": "",
     "sub_menu": "Baverages",
     "title": "Plain Waffle With Lemon",
     "price": 2500,
@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "menu": "Drinks",
+    "menu": "",
     "sub_menu": "Baverages",
     "title": "Sushi",
     "price": 345.00,
@@ -73,7 +73,7 @@
   },
   {
     "id": 10,
-    "menu": "Drinks",
+    "menu": "",
     "sub_menu": "Baverages",
     "title": "Moules Frites",
     "price": 845.00,
@@ -81,7 +81,7 @@
   },
   {
     "id": 11,
-    "menu": "Drinks",
+    "menu": "",
     "sub_menu": "Baverages",
     "title": "Spicy Chicken Tikka Masala",
     "price": 249.99,
@@ -89,7 +89,7 @@
   },
   {
     "id": 12,
-    "menu": "Drinks",
+    "menu": "",
     "sub_menu": "Baverages",
     "title": "Fried Chickpea Balls",
     "price": 349.99,
