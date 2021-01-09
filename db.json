@@ -4,7 +4,7 @@
     "menu": "",
     "sub_menu": "Rice",
     "title": "Seafood Paella",
-    "price": 339.99,
+    "price": 340,
     "image": "https://assets.epicurious.com/photos/5764583142e4a5ed66d1df6c/master/pass/seafood-paella.jpg"
   },
   {
@@ -12,7 +12,7 @@
     "menu": "",
     "sub_menu": "Rice",
     "title": "Sushi",
-    "price": 345.00,
+    "price": 345,
     "image": "https://images.japancentre.com/recipes/pics/18/main/makisushi.jpg?1557308201"
   },
   {
@@ -20,7 +20,7 @@
     "menu": "",
     "sub_menu": "Rice",
     "title": "Moules Frites",
-    "price": 845.00,
+    "price": 845,
     "image": "https://www.toutlevin.com/img/3759cfb384e11f61b98b9de740bc6ca0-1920.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "menu": "",
     "sub_menu": "Rice",
     "title": "Spicy Chicken Tikka Masala",
-    "price": 249.99,
+    "price": 250,
     "image": "https://img.buzzfeed.com/video-api-prod/assets/d03461e6d185483da8317cf9ee03433e/BFV18861_ChickenTikkaMasala-ThumbA1080.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "menu": "",
     "sub_menu": "Rice",
     "title": "Bimbimbap",
-    "price": 1069.99,
+    "price": 1070,
     "image": "https://cdn.loveandlemons.com/wp-content/uploads/2020/03/bibimbap-500x500.jpg"
   },
   {
@@ -44,7 +44,7 @@
     "menu": "",
     "sub_menu": "Dessert",
     "title": "Meat Balls",
-    "price": 199.99,
+    "price": 200,
     "image": "https://www.cookingclassy.com/wp-content/uploads/2019/09/meatballs-21.jpg"
   },
   {
@@ -52,7 +52,7 @@
     "menu": "",
     "sub_menu": "Dessert",
     "title": "Chocolate",
-    "price": 349.99,
+    "price": 350,
     "image": "https://www.supermarketperimeter.com/ext/resources/artisan-chocolate-jpeg.jpg?1572465956"
   },
   {
@@ -60,7 +60,7 @@
     "menu": "",
     "sub_menu": "Dessert",
     "title": "Plain Waffle With Lemon",
-    "price": 149.99,
+    "price": 150,
     "image": "https://www.foodiesfeed.com/wp-content/uploads/2019/05/how-to-make-waffles-made-with-whey.jpg"
   },
   {
@@ -68,7 +68,7 @@
     "menu": "",
     "sub_menu": "Snacks",
     "title": "Fajitas",
-    "price": 499.99,
+    "price": 500,
     "image": "https://img.taste.com.au/uq5uo4mA/taste/2016/11/chicken-fajitas-98151-1.jpeg"
   },
   {
@@ -76,7 +76,7 @@
     "menu": "",
     "sub_menu": "Snacks",
     "title": "Lasagna",
-    "price": 939.99,
+    "price": 940,
     "image": "https://thestayathomechef.com/wp-content/uploads/2017/08/Most-Amazing-Lasagna-2-e1574792735811.jpg"
   },
   {
@@ -84,7 +84,7 @@
     "menu": "",
     "sub_menu": "Snacks",
     "title": "Fried Chickpea Balls",
-    "price": 349.99,
+    "price": 350,
     "image": "https://static01.nyt.com/images/2013/10/23/dining/23JPFLEX2/23JPFLEX2-articleLarge.jpg"
   },
   {
@@ -92,7 +92,7 @@
     "menu": "",
     "sub_menu": "Soup",
     "title": "Penang Assam Laksa",
-    "price": 379.99,
+    "price": 380,
     "image": "https://3.bp.blogspot.com/-GjfaSKMCMKs/Tnf51by8-MI/AAAAAAAACZY/6JcsB62LeXQ/s1600/Penang+asam+laksa.JPG"
   }
 ]
