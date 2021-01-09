@@ -36,7 +36,7 @@
     "menu": "Drinks",
     "sub_menu": "Baverages",
     "title": "Penang Assam Laksa",
-    "price": 15000,
+    "price": 1000,
     "image": "https://3.bp.blogspot.com/-GjfaSKMCMKs/Tnf51by8-MI/AAAAAAAACZY/6JcsB62LeXQ/s1600/Penang+asam+laksa.JPG"
   }
     {
@@ -44,21 +44,21 @@
     "menu": "Drinks",
     "sub_menu": "Baverages",
     "title": "Chocolate",
-    "price": 15000,
+    "price": 1500,
     "image": "https://www.supermarketperimeter.com/ext/resources/artisan-chocolate-jpeg.jpg?1572465956"
   }  {
     "id": 7,
     "menu": "Drinks",
     "sub_menu": "Baverages",
     "title": "Lasagna",
-    "price": 15000,
+    "price": 2000,
     "image": "https://thestayathomechef.com/wp-content/uploads/2017/08/Most-Amazing-Lasagna-2-e1574792735811.jpg"
   }  {
     "id": 8,
     "menu": "Drinks",
     "sub_menu": "Baverages",
     "title": "Plain Waffle with lemon",
-    "price": 15000,
+    "price": 2500,
     "image": "https://www.foodiesfeed.com/wp-content/uploads/2019/05/how-to-make-waffles-made-with-whey.jpg"
   }
 ]
